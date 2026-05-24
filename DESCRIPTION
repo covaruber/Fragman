@@ -15,5 +15,3 @@ Description: Performs fragment analysis using genetic data coming from capillary
 Depends: R(>= 2.10)
 LazyData: true
 License: GPL (>= 2)
-VignetteBuilder: knitr
-Config/testthat/edition: 3
